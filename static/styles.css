@@ -1,0 +1,48 @@
+form{
+  width: 300px;
+  margin: 0 auto;
+  background: skyblue;
+  font-family: tahoma;
+  color: white;
+  border: 10px solid skyblue;
+  border-radius: 5px;
+}
+h1{
+  align-content: center;
+}
+.pair{
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+input{
+  height: 25px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  border-style: solid;
+}
+
+input[type="checkbox"]{
+
+}
+
+button[type="submit"]{
+  width: 35%;
+  margin-left: 33%;
+  margin-bottom: 30px;
+  padding: 10px;
+  padding-right: 20px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  border-style: solid;
+  color: inherit;
+  font-family: tahoma;
+  font-size: 16px;
+  cursor:  pointer;
+}
+
+input[type="checkbox"]{
+  width: 20px;
+  height: 20px;
+  float: left;
+}
